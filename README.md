@@ -35,9 +35,9 @@ Hệ thống phục vụ cho 5 nhóm đối tượng chính, và chức năng c�
 | 4 | **Nhân viên bảo trì** | - Bảo trì thiết bị theo lịch phân công<br>- Báo cáo và cập nhật kết quả công việc lên hệ thống |
 | 5 | **Hệ thống tích hợp**<br> (Hệ thống thông báo & hệ thống thanh toán) | - Hỗ trợ thanh toán qua phần mềm<br>- Xác minh giao dịch mua vé<br>- Gửi thông báo và cảnh báo sự cố<br>- Lưu trữ lịch sử thông báo và giao dịch |
 
-## 🧩 LƯỢC ĐỒ ERD 
+## 🧩 SƠ ĐỒ TỔNG QUÁT CỦA PHẦN MỀM
 ----------
-![ERD hệ thống](images/ERD.png)
+![ERD hệ thống](Mô hình hóa chức năng/Use Case Diagram/METRO_usecase.drawio.png)
 
 ## 🎯 KẾT QUẢ ĐẠT ĐƯỢC 
 ----------
