@@ -37,7 +37,7 @@ Hệ thống phục vụ cho 5 nhóm đối tượng chính, và chức năng c�
 
 ## 🧩 SƠ ĐỒ TỔNG QUÁT CỦA PHẦN MỀM
 ----------
-![Use Case hệ thống]([Mô hình hóa chức năng/Use Case Diagram/METRO_usecase.drawio.png](https://github.com/Nghanle05/E-Metro_System_Software_Development_Project/blob/main/M%C3%B4%20h%C3%ACnh%20h%C3%B3a%20ch%E1%BB%A9c%20n%C4%83ng/Use%20Case%20Diagram/METRO_usecase.drawio.png))
+![Use Case hệ thống](https://github.com/Nghanle05/E-Metro_System_Software_Development_Project/blob/main/M%C3%B4%20h%C3%ACnh%20h%C3%B3a%20ch%E1%BB%A9c%20n%C4%83ng/Use%20Case%20Diagram/METRO_usecase.drawio.png)
 
 ## 🎯 KẾT QUẢ ĐẠT ĐƯỢC 
 ----------
