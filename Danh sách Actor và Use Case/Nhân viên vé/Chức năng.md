@@ -1,5 +1,5 @@
-1. Chức năng: Đảm nhận nhiệm vụ bảo trì cho các tàu, ga, tuyến đường và các thiết bị hư hỏng tại các ga và báo cáo lại cho quản lý ga.  
-2. Thông tin các Use Case của đối tượng **"Nhân viên bảo trì"** và ý nghĩa:
+1. Chức năng: Nhận các thông tin thay đổi mới về chuyến, giá vé và giúp đỡ hành khách trong vấn đề mua vé.
+2. Thông tin các Use Case của đối tượng **"Nhân viên vé"** và ý nghĩa:
 
 | STT | Tên Use Case | Ý nghĩa |
 |:---:|--------------|----------|
