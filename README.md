@@ -37,7 +37,7 @@ Hệ thống phục vụ cho 5 nhóm đối tượng chính, và chức năng c�
 
 ## 🧩 SƠ ĐỒ TỔNG QUÁT CỦA PHẦN MỀM
 ----------
-![ERD hệ thống](Mô hình hóa chức năng/Use Case Diagram/METRO_usecase.drawio.png)
+![Use Case hệ thống](Mô hình hóa chức năng/Use Case Diagram/METRO_usecase.drawio.png)
 
 ## 🎯 KẾT QUẢ ĐẠT ĐƯỢC 
 ----------
