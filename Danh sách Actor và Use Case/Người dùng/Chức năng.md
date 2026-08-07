@@ -1,4 +1,5 @@
 1. Chức năng:
+
 Thực hiện các chức năng cơ bản trên phần mềm, như: đăng ký, đăng nhập, đổi mật khẩu, xem thông tin cá nhân, cập nhật thông tin cá nhân, cập nhật thông tin mới, tra cứu thông tin chuyến tàu, giá vé và thanh toán. 
 3. Các đối tượng người dùng:
 - Quản trị viên 
