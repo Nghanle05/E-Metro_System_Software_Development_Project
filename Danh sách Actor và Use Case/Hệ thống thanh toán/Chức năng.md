@@ -1,5 +1,6 @@
 1. Chức năng: Gửi thông tin về vé, mã thanh toán và thông báo xác nhận thanh toán thành công cho hành khách. 
 2. Thông tin các Use Case của đối tượng **"Hệ thống thanh toán"** và ý nghĩa:
+   
 | STT | Tên Use Case | Ý nghĩa |
 |:---:|--------------|----------|
 | U26 | Nhận yêu cầu thanh | Nhận yêu cầu thanh toán trực tuyến từ khách hàng hoặc thông tin vé và số tiền cần thanh toán từ hệ thống (nhân viên vé) |
