@@ -5,7 +5,8 @@
 - Nhân viên vé
 - Nhân viên bảo trì 
 - Hành khánh 
-3. Thông tin các Use Case của đối tượng **"Người dùng"** và ý nghĩa: 
+3. Thông tin các Use Case của đối tượng **"Người dùng"** và ý nghĩa:
+
 | STT | Tên Use Case | Ý nghĩa  |
 |:---:|:----------------:|----------|
 | U1 | Đăng nhập | Đăng nhập vào hệ thống |
@@ -16,4 +17,4 @@
 | U6 | Xem thông tin chuyến tàu | Xem lịch trình bao gồm: giờ, ga bắt đầu, ga kết thúc, giá vé của các chuyến tàu, tình trạng |
 | U7 | Xem lịch sử giao dịch | Xem toàn bộ các vé tàu đã mua | 
 | U8 | Mua vé | Mua vé thông qua hệ thống |
-| U9 | Đăng xuất | Người dùng thoát khỏi hệ thống | 
+| U9 | Đăng xuất | Người dùng thoát khỏi hệ thống |
