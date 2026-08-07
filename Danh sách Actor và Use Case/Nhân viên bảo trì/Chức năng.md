@@ -4,4 +4,4 @@
 | STT | Tên Use Case | Ý nghĩa |
 |:---:|--------------|----------|
 | U19 | Xem thông tin bảo trì | Xem lịch phân công và danh sách thiết bị, ga và tàu cần bảo trì |
-| U20 | Gửi báo cáo kết | Gửi báo cáo tình trạng sau bảo trì cho quản lý ga |
+| U20 | Gửi báo cáo kết quả | Gửi báo cáo tình trạng sau bảo trì cho quản lý ga |
